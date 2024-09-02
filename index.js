@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Desarrollado por **Caserioo**","Luchando contra **Canadá**","Jugando a **Reino de Bolibarta RP**"];
+const statusMessages = ["Desarrollado por **Caserioo**","Luchando contra **Canadá**","Jugando a **Reino de Bolibarta RP**","🐱‍👤Haciendo Heal a Horacio"];
 
 
 let currentIndex = 0;
